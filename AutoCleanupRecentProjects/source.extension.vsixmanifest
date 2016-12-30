@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="AutoCleanupRecentProjects.Company.3f87df47-ebda-482e-8a2e-2d4c7b43fc14" Version="0.1" Language="en-US" Publisher="yamamo" />
+    <Identity Id="AutoCleanupRecentProjects.yamamoWorks.3f87df47-ebda-482e-8a2e-2d4c7b43fc14" Version="0.2" Language="en-US" Publisher="yamamo" />
     <DisplayName>Auto Cleanup Recent Projects</DisplayName>
-    <Description xml:space="preserve">Auto remove project that not exists from recent project list.</Description>
+    <Description xml:space="preserve">Remove the project entry that is not exists from recent project list automatically.</Description>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
